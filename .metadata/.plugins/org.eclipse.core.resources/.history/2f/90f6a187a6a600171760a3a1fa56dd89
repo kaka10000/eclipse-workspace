@@ -1,0 +1,8 @@
+package com.jeff.junit.demo01;
+
+public class JunitDemo01 {
+
+	public void before() {}{
+		System.out.println("JunitDemo01.before()");
+	}
+}

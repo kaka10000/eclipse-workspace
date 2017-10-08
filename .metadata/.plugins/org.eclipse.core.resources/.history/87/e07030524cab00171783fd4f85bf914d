@@ -1,0 +1,12 @@
+package com.jd.head.dao;
+
+import org.apache.ibatis.session.Configuration;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+
+public class UserMapperTest {
+
+	public void test01() {
+		SqlSessionFactory factory = new SqlSessionFactoryBuilder().build(UserMapperTest.class.getClassLoader().getResourceAsStream("UserMapper.xml"));
+	}
+}

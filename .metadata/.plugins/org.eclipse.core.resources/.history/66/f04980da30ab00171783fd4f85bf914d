@@ -1,0 +1,10 @@
+package com.jd.head.controller;
+
+/**
+ * 
+ * @author 58
+ * 提供数据Controller
+ */
+public class DataController {
+
+}

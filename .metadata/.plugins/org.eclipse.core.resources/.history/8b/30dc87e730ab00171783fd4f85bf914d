@@ -1,0 +1,13 @@
+package com.jd.head.controller;
+
+import org.springframework.stereotype.Controller;
+
+/**
+ * 
+ * @author 58
+ * 提供数据Controller
+ */
+@Controller
+public class DataController {
+
+}

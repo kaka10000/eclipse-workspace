@@ -1,0 +1,25 @@
+package com.jeff.junit.demo01;
+
+import org.junit.Test;
+/**
+ * 
+ * @author 58
+ * 
+ */
+public class JunitDemo02 {
+
+	@Test(timeout=1000)
+	public void test01() {
+		System.out.println("JunitDemo02.test01()");
+	}
+	
+	@Test
+	public void test02() {
+		System.out.println("JunitDemo01.test02()");
+	}
+	
+	@Test
+	public void test03() {
+		System.out.println("JunitDemo01.test03()");
+	}
+}

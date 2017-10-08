@@ -1,0 +1,34 @@
+$(function () {
+
+	$('#box').datagrid({
+		width : 600,
+		url : 'a.json',
+		//url : 'http://localhost:8081/table/data',
+		title : '用户列表',
+		iconCls : 'icon-search',
+		columns : [[
+			{
+				field : 'id',
+				title : '用户ID',
+			},
+			{
+				field : 'username',
+				title : '用户名称',
+			},
+			{
+				field : 'birthday',
+				title : '用户生日',
+			},
+			{
+				field : 'address',
+				title : '用户籍贯',
+			},
+		]],
+		pagination : true,
+		pageSize : 5,
+		pageList : [5, 10, 15],
+		pageNumber : 1,
+		pagePosition : 'bottom',
+	});
+	
+});

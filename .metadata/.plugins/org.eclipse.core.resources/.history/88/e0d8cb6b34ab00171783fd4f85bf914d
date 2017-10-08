@@ -1,0 +1,4 @@
+driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://10.221.10.111:8080/db_zsl
+username=demao
+password=demao

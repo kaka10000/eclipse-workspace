@@ -1,0 +1,5 @@
+package com.jd.head.dao;
+
+public class UserMapper {
+
+}

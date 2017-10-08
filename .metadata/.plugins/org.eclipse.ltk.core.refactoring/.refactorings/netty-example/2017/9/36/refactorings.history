@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;io.netty.example.echo&apos; to &apos;netty.demo/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;netty-example&apos;&#x0D;&#x0A;- Destination element: &apos;netty.demo/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;netty-example/src/main/java/io.netty.example.echo&apos;" description="Copy package" destination="=netty.demo/src\/main\/java" element1="/src\/main\/java&lt;io.netty.example.echo" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1504876195065" version="1.0"/>
+</session>

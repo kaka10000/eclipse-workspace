@@ -1,0 +1,15 @@
+package com.example.demo.pojo;
+
+/**
+ * 
+ * @author 58
+ * 地址
+ */
+public class Address {
+
+	private String city;
+	private String county;
+	private String detail;
+	
+	
+}

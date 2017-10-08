@@ -1,0 +1,30 @@
+$(function () {
+
+	$('#box').datagrid({
+		width : 500,
+		//url : 'content.json',
+		url : 'http://localhost:8081/table/data',
+		title : '用户列表',
+		iconCls : 'icon-search',
+		columns : [[
+			{
+				field : 'id',
+				title : '帐号',
+			},
+			{
+				field : 'email',
+				title : '邮件',
+			},
+			{
+				field : 'date',
+				title : '注册时间',
+			},
+		]],
+		pagination : true,
+		pageSize : 5,
+		pageList : [5, 10, 15],
+		pageNumber : 1,
+		pagePosition : 'bottom',
+	});
+	
+});

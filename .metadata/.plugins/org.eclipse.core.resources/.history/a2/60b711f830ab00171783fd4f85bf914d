@@ -1,0 +1,17 @@
+package com.jd.head.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.servlet.ModelAndView;
+
+/**
+ * 
+ * @author 58
+ * 提供数据Controller
+ */
+@Controller
+public class DataController {
+
+	public ModelAndView tabledata() {
+		return null;
+	}
+}

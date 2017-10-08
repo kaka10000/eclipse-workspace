@@ -1,0 +1,27 @@
+package com.jd.head.dao;
+
+import java.util.List;
+
+import com.jd.head.model.User;
+
+/**
+ * 
+ * @author 58
+ * 用户Dao
+ */
+public interface UserMapper {
+
+	List<User> findAll();
+	/**
+	 * 分页查找
+	 * @param pageIndex
+	 * @param pageSize
+	 * @return
+	 */
+	List<User> findAll(int pageIndex,int pageSize);
+	/**
+	 * 统计个数
+	 * @return
+	 */
+	int countAll();
+}

@@ -1,0 +1,17 @@
+package com.jd.head.dao;
+
+import java.util.List;
+
+import com.jd.head.model.User;
+
+/**
+ * 
+ * @author 58
+ * 用户Dao
+ */
+public interface UserMapper {
+
+	List<User> findAll();
+	
+	int countAll();
+}

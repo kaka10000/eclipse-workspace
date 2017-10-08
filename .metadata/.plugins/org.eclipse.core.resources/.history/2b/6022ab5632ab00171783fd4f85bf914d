@@ -1,0 +1,10 @@
+package com.jd.head.dao;
+
+/**
+ * 
+ * @author 58
+ * 用户Dao
+ */
+public class UserMapper {
+
+}

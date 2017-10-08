@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>测试FreeMarker的语法</title>
+<link rel="stylesheet"
+	href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css"
+	integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+	crossorigin="anonymous">
+
+<style type="text/css">
+.layout {
+	margin: 0px auto;
+}
+</style>
+</head>
+<body>
+
+	你好,${username},欢迎到北京游玩!${username}的信息如下：年龄${age}岁，薪水${salary}。
+	今天${date?string("yyyy-MM-dd HH:mm:ss")}是一个阳关明媚的日志。
+	
+	<table class="table layout" style="width: 50%">
+		<caption>
+			<h3> 列表  </h3>
+		</caption>
+		<tr>
+			<th>用户编号</th>
+			<th>用户名称</th>
+			<th>用户生日</th>
+			<th>用户地址</th>
+		</tr>
+		
+		<#list users as user>
+		<tr>
+			<td>${user.id}</td>
+			<td>${user.name}</td>
+			<td>${user.date?string("yyyy-MM-dd HH:mm:ss")}</td>
+			<td>${user.address.city}--${user.address.county}--${user.address.detail}</td>
+		</tr>
+		</#list>
+	</table>
+	
+	<table class="table layout" style="width: 50%">
+		<caption>
+			<h3> 列表  </h3>
+		</caption>
+		<tr>
+			<th>用户编号</th>
+			<th>用户名称</th>
+			<th>用户生日</th>
+			<th>用户地址</th>
+		</tr>
+		<!-- map?values获取的Map的Value集合，map?keys获取的key的集合 -->
+		<#list map?values as user>
+		<tr>
+			<td>${user.id}</td>
+			<td>${user.name}</td>
+			<td>${user.date?string("yyyy-MM-dd HH:mm:ss")}</td>
+			<td>${user.address.city}--${user.address.county}--${user.address.detail}</td>
+		</tr>
+		</#list>
+	</table>
+	
+	
+	<#if flag>
+		<p style="text-align: center">真的</p>
+	<#else>
+		<p style="text-align: center">假的</p>
+	</#if>
+	
+	<#if nums gte 7>
+		<p style="text-align: center">大于7</p>
+	<#elseif nums gte 6>
+		<p style="text-align: center">大于6</p>
+	<#else>
+		<p style="text-align: center">0-6之间</p>
+	</#if>
+	
+	<#if (nums>=7)>
+		<p style="text-align: center">大于7</p>
+	<#elseif （nums>=6)>
+		<p style="text-align: center">大于6</p>
+	<#else>
+		<p style="text-align: center">0-6之间</p>
+	</#if>
+	
+	字符串的长度是：${username?length}
+	
+	
+</body>
+</html>

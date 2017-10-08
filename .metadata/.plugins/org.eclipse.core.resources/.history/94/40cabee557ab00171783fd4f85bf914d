@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>测试easyui中的数据表格</title>
+<script type="text/javascript" src="../static/jquery-easyui-1.3.3/jquery.min.js"></script>
+<script type="text/javascript" src="../static/jquery-easyui-1.3.3/jquery.easyui.min.js"></script>
+<script type="text/javascript" src="../static/jquery-easyui-1.3.3/locale/easyui-lang-zh_CN.js" ></script>
+<link rel="stylesheet" type="text/css" href="../static/jquery-easyui-1.3.3/themes/default/easyui.css" />
+<link rel="stylesheet" type="text/css" href="../static/jquery-easyui-1.3.3/themes/icon.css" />
+
+<script type="text/javascript" src="../static/js/index.js"></script>
+</head>
+<body>
+	<!-- <table id="box"></table> -->
+	
+	<table class="easyui-datagrid" data-options="width:600">
+		<thead>
+			<tr>
+				<th data-options="field:'id'">用户ID</th>
+				<th data-options="field:'username'">用户名称</th>
+				<th data-options="field:'birthday'">用户生日</th>
+				<th data-options="field:'address'">用户籍贯</th>
+			</tr>
+		</thead>
+		<tbody>
+			#foreach($user in $users)
+			<tr>
+				<td>${user.id}</td><td>${user.username}</td><td>${user.birthday}</td><td>${user.address}</td>
+			</tr>
+			#end
+		</tbody>
+</table>
+</body>
+</html>

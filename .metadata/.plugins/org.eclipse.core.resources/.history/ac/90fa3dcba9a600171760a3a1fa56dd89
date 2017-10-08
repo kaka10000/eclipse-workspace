@@ -1,0 +1,32 @@
+package com.jeff.junit.demo01;
+
+import org.junit.Test;
+/**
+ * 
+ * @author 58
+ * 
+ * 
+ * 测试Test注解的参数
+ */
+public class JunitDemo03 {
+
+	/**
+	 * 执行执行这个方法，超出这个时间，就会抛出异常
+	 */
+	@Test
+	public void test01() {
+		System.out.println("JunitDemo02.test01()");
+	}
+	
+	/**
+	 * 执行下面的方法，期待抛出这个异常，一旦没有抛出这个异常的话，就会报错
+	 */
+	@Test(expected=NullPointerException.class)
+	public void test02() {
+		
+		Object o = null;
+		o.toString();
+		
+		System.out.println("JunitDemo02.test02()");
+	}
+}

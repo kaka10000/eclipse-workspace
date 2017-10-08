@@ -1,0 +1,20 @@
+package com.jeff.junit.demo01;
+
+import org.junit.Test;
+/**
+ * 
+ * @author 58
+ * 
+ * 
+ * 测试Test注解的参数
+ */
+public class JunitDemo03 {
+
+	/**
+	 * 执行执行这个方法，超出这个时间，就会抛出异常
+	 */
+	JunitDemo02.java
+	public void test01() {
+		System.out.println("JunitDemo02.test01()");
+	}
+}

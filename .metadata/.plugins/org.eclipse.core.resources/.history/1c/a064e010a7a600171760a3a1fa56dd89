@@ -1,0 +1,45 @@
+package com.jeff.junit.demo01;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+/**
+ * 
+ * @author 58
+ * JUnit中的这几个注解的单元测试
+ */
+public class JunitDemo01 {
+
+	@BeforeClass
+	public void beforeClass() {}{
+		System.out.println("JunitDemo01.beforeClass()");
+	}
+	
+	@Before
+	public void before() {}{
+		System.out.println("JunitDemo01.before()");
+	}
+	
+	@Test
+	public void test01() {
+		System.out.println("JunitDemo01.test01()");
+	}
+	
+	@Test
+	public void test02() {
+		System.out.println("JunitDemo01.test02()");
+	}
+	
+	@After
+	public void after() {
+		System.out.println("JunitDemo01.after()");
+	}
+	
+	@AfterClass
+	public void afterClass() {
+		System.out.println("JunitDemo01.afterClass()");
+	}
+}

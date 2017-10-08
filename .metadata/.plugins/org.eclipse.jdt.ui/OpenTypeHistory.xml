@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-codec\/4.1.14.Final\/netty-codec-4.1.14.Final.jar&lt;io.netty.handler.codec.marshalling(ChannelBufferByteInput.class[ChannelBufferByteInput" modifiers="32" timestamp="1504873880073"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-codec\/4.1.14.Final\/netty-codec-4.1.14.Final.jar&lt;io.netty.handler.codec.marshalling(ChannelBufferByteOutput.class[ChannelBufferByteOutput" modifiers="32" timestamp="1504873880073"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-buffer\/4.1.14.Final\/netty-buffer-4.1.14.Final.jar&lt;io.netty.buffer(ByteBuf.class[ByteBuf" modifiers="1057" timestamp="1504873880457"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-transport\/4.1.14.Final\/netty-transport-4.1.14.Final.jar&lt;io.netty.channel(ChannelConfig.class[ChannelConfig" modifiers="1537" timestamp="1504873880464"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-transport\/4.1.14.Final\/netty-transport-4.1.14.Final.jar&lt;io.netty.channel(Channel.class[Channel" modifiers="1537" timestamp="1504873880464"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-transport\/4.1.14.Final\/netty-transport-4.1.14.Final.jar&lt;io.netty.channel(ChannelPipeline.class[ChannelPipeline" modifiers="1537" timestamp="1504873880464"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-transport\/4.1.14.Final\/netty-transport-4.1.14.Final.jar&lt;io.netty.channel.nio(AbstractNioMessageChannel$NioMessageUnsafe.class[NioMessageUnsafe" modifiers="18" timestamp="1504873880464"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-common\/4.1.14.Final\/netty-common-4.1.14.Final.jar&lt;io.netty.util.concurrent(SingleThreadEventExecutor.class[SingleThreadEventExecutor" modifiers="1057" timestamp="1504873878563"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/io\/netty\/netty-buffer\/4.1.14.Final\/netty-buffer-4.1.14.Final.jar&lt;io.netty.buffer(PoolChunk.class[PoolChunk" modifiers="48" timestamp="1504873880457"/>
+<typeInfo handle="=netty.demo/C:\/Users\/58\/.m2\/repository\/com\/google\/protobuf\/protobuf-java\/2.6.1\/protobuf-java-2.6.1.jar&lt;com.google.protobuf(BoundedByteString.class[BoundedByteString" modifiers="32" timestamp="1503217292459"/>
+</typeInfoHistroy>

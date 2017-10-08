@@ -1,0 +1,37 @@
+package com.jeff.junit.demo01;
+
+import org.junit.Test;
+/**
+ * 
+ * @author 58
+ * 
+ */
+public class JunitDemo02 {
+
+	/**
+	 * 执行执行这个方法，超出这个时间，就会抛出异常
+	 */
+	@Test(timeout=1000)
+	public void test01() {
+//		try {
+//			Thread.sleep(1000);
+//		} catch (InterruptedException e) {
+//			e.printStackTrace();
+//		}
+		
+		System.out.println("JunitDemo02.test01()");
+	}
+	
+	@Test(expected=NullPointerException.class)
+	public void test02() {
+		
+		Object o = null;
+		o.toString();
+		System.out.println("JunitDemo01.test02()");
+	}
+	
+	@Test
+	public void test03() {
+		System.out.println("JunitDemo01.test03()");
+	}
+}

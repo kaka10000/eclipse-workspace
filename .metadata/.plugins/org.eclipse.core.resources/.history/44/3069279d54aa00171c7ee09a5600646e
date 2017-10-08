@@ -1,0 +1,10 @@
+package com.example.demo.pojo;
+
+/**
+ * 
+ * @author 58
+ * 地址
+ */
+public class Address {
+
+}

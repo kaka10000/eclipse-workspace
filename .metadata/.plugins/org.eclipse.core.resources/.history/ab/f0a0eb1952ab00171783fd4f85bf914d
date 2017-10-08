@@ -1,0 +1,7 @@
+package com.jd.head.model;
+
+public class PageData {
+
+	private int total;
+	private List<T> rows;
+}

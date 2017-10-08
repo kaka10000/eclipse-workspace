@@ -1,0 +1,32 @@
+$(function () {
+	$('#box').datagrid({
+		width : 600,
+		url : {"rows":[{"address":"北京","birthday":1507438045231,"id":1,"username":"user-01"},{"address":"北京","birthday":1507438045231,"id":2,"username":"user-02"},{"address":"北京","birthday":1507438045231,"id":3,"username":"user-03"},{"address":"北京","birthday":1507438045231,"id":4,"username":"user-04"},{"address":"北京","birthday":1507438045231,"id":5,"username":"user-05"},{"address":"北京","birthday":1507438045231,"id":6,"username":"user-06"},{"address":"北京","birthday":1507438045231,"id":7,"username":"user-07"},{"address":"北京","birthday":1507438045231,"id":8,"username":"user-08"},{"address":"北京","birthday":1507438045231,"id":9,"username":"user-09"},{"address":"北京","birthday":1507438045231,"id":10,"username":"user-010"},{"address":"北京","birthday":1507438045231,"id":11,"username":"user-011"},{"address":"北京","birthday":1507438045231,"id":12,"username":"user-012"}],"total":10},
+		title : '用户列表',
+		iconCls : 'icon-search',
+		columns : [[
+			{
+				field : 'id',
+				title : '用户ID',
+			},
+			{
+				field : 'username',
+				title : '用户名称',
+			},
+			{
+				field : 'birthday',
+				title : '用户生日',
+			},
+			{
+				field : 'address',
+				title : '用户籍贯',
+			},
+		]],
+		pagination : true,
+		pageSize : 5,
+		pageList : [5, 10, 15],
+		pageNumber : 1,
+		pagePosition : 'bottom',
+	});
+	
+});

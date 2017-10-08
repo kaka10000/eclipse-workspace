@@ -4671,3 +4671,117 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2017-10-08 12:51:46,176 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-10-08 12:51:46,176 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-10-08 12:51:46,176 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\velocity\src\test\resources
+2017-10-08 19:21:22,611 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:22,611 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-08 19:21:22,616 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-08 19:21:22,624 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:22,625 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\SpringBoot-mybatis-freemarker-demo\src\test\resources
+2017-10-08 19:21:22,642 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:22,643 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-08 19:21:22,645 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:22,645 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\velocity\src\test\resources
+2017-10-08 19:21:35,185 [Worker-98] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.netty:netty-example:4.1.16.Final-SNAPSHOT @ C:\Users\58\eclipse-workspace\netty\example\pom.xml.
+2017-10-08 19:21:35,236 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,241 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-sctp:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,245 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-handler:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,249 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-handler-proxy:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,253 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-http:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,258 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-http2:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,274 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-memcache:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,279 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-redis:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,284 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-socks:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,288 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-stomp:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,326 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-udt:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,330 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-rxtx:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:35,899 [Worker-98] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jeff:netty.demo:0.0.1-SNAPSHOT @ C:\Users\58\eclipse-workspace\netty.demo\pom.xml.
+2017-10-08 19:21:37,070 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:37,074 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 205 resources
+2017-10-08 19:21:37,344 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:37,344 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty\example\src\test\resources
+2017-10-08 19:21:38,352 [Worker-105] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.netty:netty-example:4.1.16.Final-SNAPSHOT @ C:\Users\58\eclipse-workspace\netty\example\pom.xml.
+2017-10-08 19:21:38,393 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,399 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-sctp:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,401 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-handler:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,409 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-handler-proxy:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,413 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-http:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,416 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-http2:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,419 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-memcache:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,425 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-redis:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,430 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-socks:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,436 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-stomp:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,477 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-udt:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:38,480 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-rxtx:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,166 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,171 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-sctp:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,174 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-handler:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,176 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-handler-proxy:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,179 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-http:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,183 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-http2:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,186 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-memcache:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,194 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-redis:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,197 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-socks:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,209 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-codec-stomp:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,231 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-udt:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,233 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-transport-rxtx:jar:4.1.16.Final-SNAPSHOT is missing, no dependency information available
+2017-10-08 19:21:40,271 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:40,292 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-08 19:21:40,317 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:40,318 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty\example\src\test\resources
+2017-10-08 19:21:40,608 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:40,608 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty.demo\src\main\resources
+2017-10-08 19:21:40,610 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:21:40,612 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty.demo\src\test\resources
+2017-10-08 19:22:01,854 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jeff:netty.demo:0.0.1-SNAPSHOT @ C:\Users\58\eclipse-workspace\netty.demo\pom.xml.
+2017-10-08 19:22:03,171 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:03,171 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty.demo\src\main\resources
+2017-10-08 19:22:03,173 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:03,173 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty.demo\src\test\resources
+2017-10-08 19:22:11,563 [Worker-106] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for velocity
+2017-10-08 19:22:12,086 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:12,089 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-08 19:22:12,099 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 612 resources
+2017-10-08 19:22:13,120 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:13,120 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\SpringBoot-mybatis-freemarker-demo\src\test\resources
+2017-10-08 19:22:13,277 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:13,278 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\UnitTest\src\main\resources
+2017-10-08 19:22:13,279 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:13,279 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\UnitTest\src\test\resources
+2017-10-08 19:22:14,117 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:14,118 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty.demo\src\main\resources
+2017-10-08 19:22:14,120 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:14,120 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty.demo\src\test\resources
+2017-10-08 19:22:14,632 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:14,632 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-10-08 19:22:14,696 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:22:14,696 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\velocity\src\test\resources
+2017-10-08 19:22:14,696 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of velocity
+2017-10-08 19:22:14,697 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for velocity
+2017-10-08 19:22:14,742 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:23:40,647 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\58\eclipse-workspace\netty.demo
+2017-10-08 19:23:40,648 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\58\.m2\settings-home.xml clean
+2017-10-08 19:23:42,836 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:23:42,836 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty.demo\src\main\resources
+2017-10-08 19:23:42,838 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:23:42,838 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\netty.demo\src\test\resources
+2017-10-08 19:23:57,662 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\58\eclipse-workspace\SpringBoot-mybatis-freemarker-demo
+2017-10-08 19:23:57,662 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\58\.m2\settings-home.xml clean
+2017-10-08 19:24:02,348 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:24:02,391 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-08 19:24:02,431 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 612 resources
+2017-10-08 19:24:03,126 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:24:03,126 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\SpringBoot-mybatis-freemarker-demo\src\test\resources
+2017-10-08 19:24:08,548 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\58\eclipse-workspace\UnitTest
+2017-10-08 19:24:08,548 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\58\.m2\settings-home.xml clean
+2017-10-08 19:24:10,581 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:24:10,581 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\UnitTest\src\main\resources
+2017-10-08 19:24:10,581 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:24:10,582 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\UnitTest\src\test\resources
+2017-10-08 19:24:24,351 [Worker-107] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\58\eclipse-workspace\velocity
+2017-10-08 19:24:24,351 [Worker-107] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\58\.m2\settings-home.xml clean
+2017-10-08 19:24:26,472 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:24:26,473 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-10-08 19:24:26,481 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 19:24:26,481 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\velocity\src\test\resources
+2017-10-08 19:24:26,481 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of velocity
+2017-10-08 19:24:26,481 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for velocity
+2017-10-08 19:24:26,485 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

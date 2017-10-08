@@ -4785,3 +4785,40 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2017-10-08 19:24:26,481 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of velocity
 2017-10-08 19:24:26,481 [Worker-108] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for velocity
 2017-10-08 19:24:26,485 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 22:12:14,622 [Worker-142] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar
+2017-10-08 22:12:14,670 [Worker-142] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar
+2017-10-08 22:12:14,755 [Worker-142] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: xinQing:mini:1.0-SNAPSHOT @ C:\Users\58\eclipse-workspace\mini-master\pom.xml.
+2017-10-08 22:12:15,235 [Worker-142] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mini-master/src/main/java
+2017-10-08 22:12:15,236 [Worker-142] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mini-master/src/main/resources
+2017-10-08 22:12:15,242 [Worker-142] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mini-master/src/test/java
+2017-10-08 22:12:22,500 [Worker-142] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2017-10-08 22:12:23,397 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 22:12:23,397 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta true
+2017-10-08 22:12:23,399 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-10-08 22:12:23,400 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2017-10-08 22:12:23,417 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file log4j.properties
+2017-10-08 22:12:23,420 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file mapper\MenuMapper.xml
+2017-10-08 22:12:23,422 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file mapper\RoleMapper.xml
+2017-10-08 22:12:23,424 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file mapper\UserMapper.xml
+2017-10-08 22:12:23,426 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file table\import.sql
+2017-10-08 22:12:23,431 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 22:12:23,432 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\mini-master\src\test\resources
+2017-10-08 22:13:18,713 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 22:13:18,713 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2017-10-08 22:13:18,713 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-08 22:13:18,713 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying file application.properties
+2017-10-08 22:13:18,713 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 22:13:18,713 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\mini-master\src\test\resources
+2017-10-08 22:17:56,981 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-08 22:18:16,291 [Worker-150] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: xinQing:mini:1.0-SNAPSHOT @ C:\Users\58\eclipse-workspace\mini-master\pom.xml.
+2017-10-08 22:18:16,734 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 22:18:16,741 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreDelta false
+2017-10-08 22:18:16,741 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-08 22:18:16,744 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 22:18:16,744 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\58\eclipse-workspace\mini-master\src\test\resources
+2017-10-08 22:18:16,745 [Worker-150] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mini-master
+2017-10-08 22:18:16,745 [Worker-150] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mini-master
+2017-10-08 22:18:16,750 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-08 22:18:21,624 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-08 22:19:20,516 [Worker-144] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\58\eclipse-workspace\mini-master
+2017-10-08 22:19:20,516 [Worker-144] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s C:\Users\58\.m2\settings-home.xml tomcat7:run

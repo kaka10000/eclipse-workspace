@@ -5320,3 +5320,9 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.lsp4e 1 0 2017-10-08 19:22:21.432
 !MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-08 22:12:14.222
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-08 22:12:14.224
+!MESSAGE Non IFiles not supported yet
